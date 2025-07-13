@@ -18,5 +18,5 @@ jobs:
         with:
           name: sshpk-conv
           tag_name: sshpk-conv
-          files: sshpk-conv
+          files: ./sshpk-conv
 
